@@ -123,6 +123,7 @@ h2 {
 }
 
 .promise-img {
+    display: block;
     box-shadow: 0 25px 20px -8px rgba(125, 125, 125, 0.1);
     -webkit-box-shadow: 0 25px 20px -8px rgba(125, 125, 125, 0.1);
     -moz-box-shadow: 0 25px 20px -8px rgba(125, 125, 125, 0.1);
